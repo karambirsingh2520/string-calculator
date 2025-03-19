@@ -1,0 +1,24 @@
+Hello Talent,
+
+Thanks for the details. we’re super kicked to embark on this journey with you! As the first step, please take the technical assessment described here:
+
+(The deadline to submit the assessment is before today or max. by tomorrow eod)
+
+https://blog.incubyte.co/blog/tdd-assessment/ (Go through attached link on TDD, require to create String Calculator)
+
+Things To Keep In Mind
+Host your solution on a public GitHub/GitLab repository
+Follow best practices for TDD. Watch this video to understand TDD better also see image and PDF which is attached as TDD should be followed.
+Commit your changes frequently to show how your code evolves with every step of TDD
+We encourage you to use the programming language and tools you feel most comfortable with.
+Do not rush, take your time, we want to see your best work!
+Send us the link to your repo once you’re happy with what you’ve done
+Based on the instructions below:- We would love to see a working example of how you code!
+
+1.Please code this in Java or any other preferred language using TDD. You will need to commit your code to Git and send us a link to the repo. Make sure to commit your repo multiple times so that it highlights each step of TDD separately, and we can see how your code evolves.
+
+2.If you're not comfortable using TDD, we recommend learning the techniques before you take the assessment. We recommend that you watch this video https://www.youtube.com/watch?v=qkblc5WRn-U&t=3s before attempting the assessment if you are new to TDD. If you’re a pro, go right ahead!
+
+3.Please check out our page https://incubyte.co/inspiration that has resources on practices (including TDD) we value and concepts we expect our candidates to know. This will help you with clear the assessment and gain an edge in our hiring process.
+
+Kindly push everything on github and submit URL by replying to this mail, please not that if you share excel sheet or any code written over the mail it will be considered as a rejection of the same.
