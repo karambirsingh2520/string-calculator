@@ -11,3 +11,7 @@ test("returns sum of multiple numbers", () => {
 test("handles newline as delimiter along with comma", () => {
   expect(add("1\n2,3")).toBe(6);
 });
+
+test("handles custom delimiter like //;\n1;2", () => {
+  expect(add("//;\n1;2")).toBe(3);
+});
