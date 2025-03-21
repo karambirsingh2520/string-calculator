@@ -1,4 +1,4 @@
-import { add } from "./stringCalculator";
+import { add } from "../utils/stringCalculator";
 
 test("returns sum of two numbers", () => {
   expect(add("1,2")).toBe(3);
