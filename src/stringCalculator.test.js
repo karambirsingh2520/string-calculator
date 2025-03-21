@@ -15,3 +15,19 @@ test("handles newline as delimiter along with comma", () => {
 test("handles custom delimiter like //;\n1;2", () => {
   expect(add("//;\n1;2")).toBe(3);
 });
+
+test("throws error if negative numbers are present", () => {
+  expect(() => add("1,-2,3,-5")).toThrow(
+    "negative numbers not allowed: -2, -5"
+  );
+});
+
+test("supports custom delimiter", () => {
+  expect(add("//;\n1;2")).toBe(3);
+});
+
+test("throws error on negative numbers", () => {
+  expect(() => add("1,-2,3,-4")).toThrow(
+    "negative numbers not allowed: -2, -4"
+  );
+});
