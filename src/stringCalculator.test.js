@@ -1,5 +1,5 @@
-import { add } from './stringCalculator';
+import { add } from "./stringCalculator";
 
-test('returns 0 for empty string', () => {
-  expect(add("")).toBe(0);
+test("returns the number itself when single number is given", () => {
+  expect(add("5")).toBe(5);
 });
