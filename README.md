@@ -17,7 +17,7 @@ A simple string calculator that handles basic operations like addition of comma-
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/karambirsingh2520/string-calculator
 
 
 ### Run
